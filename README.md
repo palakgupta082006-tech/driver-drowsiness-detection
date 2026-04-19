@@ -127,8 +127,8 @@ numpy
 ## 👩‍💻 Author
 **Palak Gupta**
 - 🎓 Computer Science Student
-- 📧 [your-email@example.com]
-- 🔗 [LinkedIn Profile]
+- 📧 palak.gupta082006@gmail.com
+- 🔗 https://www.linkedin.com/in/palak-gupta-189a26328?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
